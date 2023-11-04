@@ -1,33 +1,33 @@
-<h1>EX.4-LINUX-COMMANDS</h1>
+# EX.4-LINUX-COMMANDS
 
-<h1>AIM:</h1>
-
+## AIM:
 To study and execute the basis of UNIX commands
 
-<h1>LINUX COMMANDS :</h1>
+## LINUX COMMANDS :
 
-<h1>COMMAND1: ls - List Files and Directories</h1>
+### COMMAND1: ls - List Files and Directories
 
-Syntax:
+Syntax:  
 
-	ls [options] [directory]
+ls [options] [directory]
 Code: 
 
-	ls -l /home/user
-Output: 
+ ls -l /home/user
+Output:
 
-	List of files and directories in /home/user with details.
-<h1>Command 2 : cd - Change Directory</h1>
+ List of files and directories in /home/user with details.
+   
+       
+## Command 2 : cd - Change Directory
 
 Syntax: 
-
 	cd [directory]
 Code: 
-
-	cd /var/www
+        cd /var/www
 Output: 
-
 	Change to the /var/www directory.
+
+ 
 <h1>Command 3 : pwd - Print Working Directory</h1>
 
 Syntax:
